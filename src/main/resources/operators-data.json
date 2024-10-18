@@ -1,0 +1,22 @@
+{
+  "operators": [
+    {
+      "name": "Operator A",
+      "qualifications": [
+        "Bench A","Bench B","Bench C"
+      ],
+      "schedule": [
+        "MON","TUE","WED","THU"
+      ]
+    },
+    {
+      "name": "Operator B",
+      "qualifications": [
+        "Bench A","Bench C"
+      ],
+      "schedule": [
+        "MON","TUE","WED","THU"
+      ]
+    }
+  ]
+}
